@@ -1,2 +1,2 @@
 # com.foodbazaar.rest
-This is my BIS project
+As part of III year project, we created a website for similar to amazon.com for selling grocery items.
